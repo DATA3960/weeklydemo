@@ -9,7 +9,7 @@ website:
         text: Home
       - about.qmd
       - hello.qmd
-      href: Wk6_Intro-to-Exploratory-Data-Analysis.qmd
+      - href: Wk6_Intro-to-Exploratory-Data-Analysis.qmd
         text: Into to Exploratory Data Analysis
 
 format:
