@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: doc
 website:
   title: "3960 Website"
   navbar:
@@ -9,6 +9,8 @@ website:
         text: Home
       - about.qmd
       - hello.qmd
+      href: Wk6_Intro-to-Exploratory-Data-Analysis.qmd
+        text: Into to Exploratory Data Analysis
 
 format:
   html:
